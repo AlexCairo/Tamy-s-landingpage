@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4c4402d3-b871-4d3b-a130-6b920ddf791b",
+    "nombreProducto": "asdas",
+    "precio": "42",
+    "descripcion": "Descripcion: Transmite tus condolencias a tu ser querido con nuestra corona.\r\n\r\n- Corona de lilium, hortensias, iris, astromelia y follaje.",
+    "categoria": "uno",
+    "subCategoria": "dosuno",
+    "codigoProducto": "FC-0KAk",
+    "stock": "20",
+    "descuento": "30",
+    "imagen": "imagen-1729649077264-213884527.png"
+  },
+  {
+    "id": "02e2fc10-198c-4df7-b1c4-a371c4433bc2",
+    "nombreProducto": "asdasdasd23",
+    "precio": 150,
+    "descripcion": "kansdknasldnasda",
+    "categoria": "uno",
+    "subCategoria": "Joyas",
+    "codigoProducto": "RB01",
+    "stock": 50,
+    "descuento": 20,
+    "imagen": "imagen-1729649383114-6177477.jpg"
+  },
+  {
+    "id": "215360b4-bc09-4ed2-b984-d0712330d3fd",
+    "nombreProducto": "ojiwoiekwe",
+    "precio": 52,
+    "descripcion": "ASSasdasdas",
+    "categoria": "Complementos",
+    "subCategoria": "Corona",
+    "codigoProducto": "JY0258",
+    "stock": 20,
+    "descuento": 0,
+    "imagen": "imagen-1729650061819-864640940.webp"
+  }
+]

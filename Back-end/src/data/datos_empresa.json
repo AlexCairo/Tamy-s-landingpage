@@ -1,0 +1,13 @@
+{
+  "sobre_nosotros": {
+    "acerca_de": "Tamy's floristería se fundo en el 2015, con la finalidad de innovar en el rubro, dispuestos a aceptar desafios y ofrecer un excelente servicio de calidad para nuestros clientes, brindando detalles especiales para ocasiones unicas e inolvidables.",
+    "mision": "Entregar satisfacción y emoción a nuestros clientes a través de nuestra variedad de arreglos florales disponibles para toda ocasión.\nDispuestos a brindar una atención personalizada para cada cliente, listos para servirlo y orientarlo en todo momento.",
+    "vision": "Posicionarnos como una de las mejores floristerías de todo Lima Metropolitana, con un servicio único e innovador y brindando productos de calidad.",
+    "lema": "Una flor especial para una ocasión inolvidable\n"
+  },
+  "contactos": {
+    "gmail": "example@gmail.com",
+    "telefono": "928904941",
+    "direccion": "Av. Melgarejo Mz A Lt 11, La Molina, Lima, Perú"
+  }
+}
