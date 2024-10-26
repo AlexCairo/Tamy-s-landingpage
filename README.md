@@ -1,6 +1,6 @@
 # 🌸 Floristería - Proyecto en React, Node y Tailwind
 
-¡Bienvenido a la documentación de nuestro proyecto de floristería! Este repositorio contiene una aplicación web construida con **React**, **Node.js** y **Tailwind CSS**. A continuación, encontrarás toda la información necesaria para entender, instalar y contribuir a este proyecto.
+¡Bienvenido a la documentación de mi proyecto de floristería! Este repositorio contiene una aplicación web construida con **React**, **Node.js** y **Tailwind CSS**. A continuación, encontrarás toda la información necesaria para entender este proyecto.
 
 ## 📖 Descripción del Proyecto
 
