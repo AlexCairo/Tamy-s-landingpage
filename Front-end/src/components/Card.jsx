@@ -1,13 +1,14 @@
-const Card = ({ pre_tittle, title, description, imageUrl }) => {
-    return (
-      <div className="h-full rounded-[2rem] text-white px-10 pt-10 bg-cover bg-center overflow-hidden" style={{ backgroundImage: `url(${imageUrl})` }}>
-        <div className="min-h-44 flex gap-3 flex-col">
-          <strong className="font-extrabold">{pre_tittle}</strong>
-          <h2 className="text-5xl">{title}</h2>
-          <p>{description}</p>
-        </div>
+const Card = ({ imageUrl }) => {
+  return (
+      <div className="h-full rounded-[2rem] text-white overflow-hidden relative">
+          <img 
+              src={imageUrl} 
+              alt="Descripción de la imagen" 
+              className="h-full w-full object-fill rounded-[2rem] bg-cover bg-center" 
+          />
+          
       </div>
-    );
-  };
-  
-  export default Card;
+  );
+};
+
+export default Card;

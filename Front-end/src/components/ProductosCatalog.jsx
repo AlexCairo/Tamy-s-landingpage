@@ -75,7 +75,7 @@ function ProductosCatalog() {
         <h2 className="text-3xl">Productos</h2>
         <div className="w-1/2 md:w-3/4 border-t border-black"></div>
       </div>
-      <section className="px-4 md:px-10 md:max-w-[90rem] md:mx-auto lg:px-20 grid grid-cols-1 lg:grid-cols-4 gap-4">
+      <section id="Productos" className="px-4 md:px-10 md:max-w-[90rem] md:mx-auto lg:px-20 grid grid-cols-1 lg:grid-cols-4 gap-4">
         <div className="lg:col-span-1 lg:row-span-full">
           <strong className="mb-2 block">Categorías</strong>
           <button onClick={handleShowAllProducts} className="text-[#308e42] text-sm mt-4">Todos los Productos ({allProducts.length})</button>

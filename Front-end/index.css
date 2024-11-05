@@ -16,7 +16,7 @@ html{
 
 @layer utilities {
     .clip-diagonal {
-      clip-path: polygon(100% 100%, 0 200%, 0 0, 100% 100%);
+      clip-path: polygon(100% 100%, 0 100%, 0 0, 100% 100%);
     } 
     .animation-btn{
       background: linear-gradient(45deg, #07043a, #308e42, #d3db5a, #b0c5ff,#ffff);

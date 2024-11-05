@@ -49,6 +49,7 @@ function Footer(){
                 </form>
             </main>
             <section className="bg-[#438D42] text-white p-1 text-[0.5rem] md:text-xs tracking-wide font-bold text-center">Floristería Tamy's 2024 © Todos los derechos reservados</section>
+            <aside className="text-gray-200 bg-white text-center text-sm p-1">Hecho por CrFlores</aside>
             <Link className = "group fixed bottom-10 right-6 z-[2] w-[3.5rem] h-auto" target = "_blank" to = "https://api.whatsapp.com/send?phone=928904941">
                 <img src = "images/whatsappIcon.svg" alt = "wsp.webp" />
                 <span className="bg-white pointer-events-none absolute opacity-0 transition-all w-max md:group-hover:opacity-100 px-3 py-1 rounded-xl shadow-lg top-3 right-[110%]">😊 !Estamos online!</span>
